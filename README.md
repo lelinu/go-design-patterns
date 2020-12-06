@@ -1,2 +1,2 @@
 # go-design-patterns
-Design patters in Golang
+Design patterns in Golang
